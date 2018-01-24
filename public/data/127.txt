@@ -1,0 +1,1 @@
+{"queuing":{"branch_id":"127","rooms":"4","branch":"Katipunan 2"},"clients":[],"user_calling":[],"user_serving":[]}

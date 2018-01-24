@@ -1,0 +1,1 @@
+{"queuing":{"branch_id":"172","rooms":"4","branch":"SM Iloilo"},"clients":[],"user_calling":[],"user_serving":[]}

@@ -1,0 +1,1 @@
+{"queuing":{"branch_id":"228","rooms":"5","branch":"Festive Walk Mall, Ilo-ilo Business Park"},"clients":[],"user_calling":[],"user_serving":[]}
